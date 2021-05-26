@@ -1,0 +1,7 @@
+scipy==1.0.0rc1
+opencv_python==4.2.0.32
+pandas==0.20.3
+dlib==18.17.100
+matplotlib==2.2.5
+numpy==1.13.1
+Pillow==8.2.0

@@ -1,0 +1,10 @@
+opencv_python==4.2.0.32
+pandas==0.20.3
+dlib==18.17.100
+tqdm==4.31.1
+nupic.bindings==1.0.6
+matplotlib==2.2.5
+numpy==1.13.1
+nupic==1.0.5
+PyYAML==5.4.1
+scikit_learn==0.24.2
